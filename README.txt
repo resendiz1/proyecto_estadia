@@ -1,26 +1,11 @@
-Material Design for Bootstrap
+<h1> Descripción</h1>
+Es mi primer proyecto web con base de datos, es un CRUD basico en donde se pueden agregar datos de tiendas y a cada tienda se le pueden agregar productos y comentarios. El proyecto esta realizado con PHP, CSS (Bootstrap) y MySQL.
 
-Version: MDB Free 4.7.5
+<h2> Requerimientos</h2>
+<li>Se requiere un servidor Apache como: <i> LAMPP, XAMPP, Laragon, etc </i>   </li>
 
-Documentation:
-https://mdbootstrap.com/
+<h1> Instalación</h1>
+<li> Se clona el proyecto en la carpeta destinada para los proyectos dependiendo del servidor apache que tengamos</li>
+<li>Se reestablece la Base de Datos </li>
 
-Getting started:
-https://mdbootstrap.com/docs/jquery/getting-started/download/
-
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/education/bootstrap/
-MDB-Wordpress: https://mdbootstrap.com/education/wordpress/
-
-Templates:
-https://mdbootstrap.com/templates/
-
-License:
-https://mdbootstrap.com/general/license/
-
-Support:
-https://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
-
+<b> Con eso ya deberia funcionar</b>
